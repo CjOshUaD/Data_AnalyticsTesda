@@ -2,6 +2,7 @@
 *.db
 
 # Optional: Ignore other common database extensions and lock files
+*.csv
 *.sqlite
 *.sqlite3
 *.db-journal
