@@ -1,3 +1,9 @@
+# Ignore all .db files
 *.db
+
+# Optional: Ignore other common database extensions and lock files
 *.sqlite
 *.sqlite3
+*.db-journal
+*.db-shm
+*.db-wal
