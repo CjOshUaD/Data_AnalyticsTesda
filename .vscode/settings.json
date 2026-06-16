@@ -4,8 +4,8 @@
     {
       "previewLimit": 50,
       "driver": "SQLite",
-      "database": "${workspaceFolder:SQL_Testing}/Day04_practice.db",
-      "name": "sql_testingDB"
+      "name": "newconnectyionqueries",
+      "database": "${workspaceFolder:Data_AnalyticsTesda}/Day04_practice.db"
     }
   ]
 }

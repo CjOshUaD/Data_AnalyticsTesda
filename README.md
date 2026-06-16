@@ -24,3 +24,5 @@ can download it from the course LMS.
 ## Tools
 
 VS Code + SQLTools extension + SQLTools SQLite driver
+
+
